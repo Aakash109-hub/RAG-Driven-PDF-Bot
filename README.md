@@ -14,11 +14,6 @@ This project utilizes several libraries and tools to achieve its functionality:
 - chromadb: A database for storing information extracted from PDFs.
 - faiss-cpu: A library for similarity search and clustering of dense vectors.
 - langchain_google_genai: A module for integrating Google's generative AI models with Langchain.
-
-## Installation
-To install the necessary libraries for this project, run the following command:
-
-
 ## Usage
 1. Clone this repository to your local machine.
 2. Install the required dependencies as mentioned above.
