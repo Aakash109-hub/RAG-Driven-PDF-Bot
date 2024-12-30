@@ -59,7 +59,7 @@ User Query → Retrieve Relevant Chunks → Combine Context with Query → Gener
 smartpdf-ai/  
 |-- app.py                 # Main Streamlit application  
 |-- requirements.txt       # Dependencies  
-|-- .env.example           # Example API key setup  
+|-- .env                   # Example API key setup  
 |-- README.md              # Project documentation  
 ```
 
@@ -81,17 +81,5 @@ smartpdf-ai/
 - **Streamlit**: For simplifying the creation of a user-friendly UI.  
 
 For further insights, refer to LangChain’s official [RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/).  
-
----
-
-## License  
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.  
-
----
-
-## Contributing  
-
-Contributions are welcome! Please submit issues or pull requests to enhance the project.  
 
 Enjoy seamless interaction with your documents through **SmartPDF AI**! 🚀  
