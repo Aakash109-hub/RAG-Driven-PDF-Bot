@@ -2,9 +2,10 @@
 
 ## Overview  
 
-SmartPDF AI is a Retrieval-Augmented Generation (RAG) application that lets you seamlessly interact with your PDF documents. It processes uploaded files, retrieves relevant information, and generates intelligent answers to your questions. Built on the LangChain framework, SmartPDF AI ensures efficient data handling and insightful conversational capabilities by leveraging modern embedding techniques and conversational models.  
+SmartPDF AI is a Retrieval-Augmented Generation (RAG) application that lets you seamlessly interact with your PDF documents. It processes uploaded files, retrieves relevant information, and generates intelligent answers to your questions. Built on the LangChain framework, SmartPDF AI ensures efficient data handling and insightful conversational capabilities by leveraging modern embedding techniques and conversational models. 
 
----
+![Screenshot 2024-12-30 121437](https://github.com/user-attachments/assets/9a4d44c2-bff5-49a9-874b-beccda7b5f26)
+
 
 ## Core Components of RAG  
 
