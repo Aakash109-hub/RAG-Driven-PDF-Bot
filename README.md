@@ -70,15 +70,6 @@ smartpdf-ai/
 
 ---
 
-## Future Enhancements  
-
-- **Support for Additional File Types**: Extend support to Word documents and plain text files.  
-- **Multi-Language PDFs**: Enable question answering in non-English documents.  
-- **Improved UI**: Add visual aids for extracted document content.  
-- **Cloud Deployment**: Deploy on AWS, Azure, or GCP for wider accessibility.  
-
----
-
 ## Acknowledgments  
 
 - **LangChain**: For providing tools to streamline RAG workflows.  
